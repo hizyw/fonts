@@ -2,7 +2,8 @@ zyw
 ===
 
 //cdn.jsdelivr.net/gh/hizyw/fonts@master/LXGWZhenKai.woff2
-/*  LXGWZhenKai.woff2  */
-/*  LXGWWenKai-Regular.subset.woff2  */
-/*  HarmonyOS_Sans_SC_Medium.subset.woff2  */
-/*  AlibabaPuHuiTi-2-65-Medium.subset.woff2  */
+
+- LXGWZhenKai.woff2
+- LXGWWenKai-Regular.subset.woff2
+- HarmonyOS_Sans_SC_Medium.subset.woff2
+- AlibabaPuHuiTi-2-65-Medium.subset.woff2
