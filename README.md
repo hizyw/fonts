@@ -13,3 +13,6 @@ src:url(//cdn.jsdelivr.net/gh/hizyw/fonts@master/LXGWZhenKai.woff2) format('woff
 - LXGWWenKai-Regular.subset.woff2
 - HarmonyOS_Sans_SC_Medium.subset.woff2
 - AlibabaPuHuiTi-2-65-Medium.subset.woff2
+
+
+	font-family: lucida grande,lucida sans unicode,lucida,helvetica,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif;
